@@ -1,5 +1,7 @@
 # IBMA pain
 
+![ibma_pain](./output/ibma_pain.png)
+
 ## Requirements
 
 Requires python >= 3.10
