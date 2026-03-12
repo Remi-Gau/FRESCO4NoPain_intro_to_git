@@ -1,0 +1,50 @@
+	Cluster ID	X	Y	Z	Peak Stat	Cluster Size (mm3)
+0	PositiveTail 1	-60.0	-30.0	20.0	13.847497	913416
+1	PositiveTail 1a	-42.0	12.0	-8.0	13.847497	
+2	PositiveTail 1b	-40.0	4.0	-2.0	13.847497	
+3	PositiveTail 1c	-40.0	0.0	-16.0	13.847497	
+4	PositiveTail 2	20.0	-4.0	-44.0	2.5876071	232
+5	PositiveTail 3	40.0	-22.0	-34.0	2.5519345	128
+6	NegativeTail 7	-4.0	36.0	-20.0	-9.580438	92096
+7	NegativeTail 7a	2.0	30.0	-22.0	-9.053536	
+8	NegativeTail 7b	-4.0	52.0	-14.0	-9.01058	
+9	NegativeTail 7c	2.0	50.0	-20.0	-8.979518	
+10	NegativeTail 8	-8.0	-56.0	8.0	-8.17704	22992
+11	NegativeTail 8a	8.0	-54.0	8.0	-5.424874	
+12	NegativeTail 8b	22.0	-82.0	36.0	-4.260441	
+13	NegativeTail 8c	48.0	-66.0	22.0	-4.259352	
+14	NegativeTail 9	-24.0	-12.0	-28.0	-8.15704	11760
+15	NegativeTail 9a	-32.0	-36.0	-20.0	-7.753435	
+16	NegativeTail 10	20.0	-10.0	-28.0	-7.5982637	13824
+17	NegativeTail 10a	26.0	-42.0	-18.0	-6.364318	
+18	NegativeTail 10b	32.0	-46.0	-4.0	-4.243364	
+19	NegativeTail 10c	26.0	-40.0	6.0	-3.2476535	
+20	NegativeTail 11	60.0	-4.0	22.0	-7.284835	16216
+21	NegativeTail 11a	48.0	-24.0	52.0	-6.6413074	
+22	NegativeTail 11b	58.0	-10.0	34.0	-6.142868	
+23	NegativeTail 11c	46.0	-18.0	44.0	-5.7380114	
+24	NegativeTail 12	60.0	-6.0	-28.0	-7.013401	12464
+25	NegativeTail 12a	58.0	-10.0	-12.0	-5.1493535	
+26	NegativeTail 12b	66.0	-24.0	-2.0	-4.9229183	
+27	NegativeTail 12c	56.0	2.0	-34.0	-4.715167	
+28	NegativeTail 13	-56.0	-14.0	-22.0	-6.9617977	28504
+29	NegativeTail 13a	-52.0	12.0	-36.0	-6.563193	
+30	NegativeTail 13b	-46.0	32.0	-18.0	-6.064287	
+31	NegativeTail 13c	-54.0	-2.0	-30.0	-5.8970056	
+32	NegativeTail 14	-50.0	-10.0	28.0	-6.6700215	17416
+33	NegativeTail 14a	-44.0	-24.0	56.0	-5.776675	
+34	NegativeTail 14b	-40.0	-22.0	64.0	-4.9175925	
+35	NegativeTail 14c	-66.0	-6.0	20.0	-4.6304855	
+36	NegativeTail 15	-48.0	-66.0	26.0	-6.4997854	8864
+37	NegativeTail 15a	-26.0	-80.0	38.0	-2.4646196	
+38	NegativeTail 16	4.0	-28.0	60.0	-3.6847615	1872
+39	NegativeTail 16a	8.0	-32.0	68.0	-3.1345572	
+40	NegativeTail 16b	-6.0	-26.0	56.0	-2.095555	
+41	NegativeTail 17	2.0	2.0	-14.0	-2.7433906	224
+42	NegativeTail 18	26.0	12.0	-34.0	-2.7415211	200
+43	NegativeTail 18a	24.0	14.0	-42.0	-1.9807482	
+44	NegativeTail 19	28.0	26.0	-24.0	-2.7376454	304
+45	NegativeTail 19a	34.0	32.0	-22.0	-2.6871743	
+46	NegativeTail 20	26.0	-64.0	60.0	-2.5790772	224
+47	NegativeTail 21	-20.0	-84.0	24.0	-2.5625033	352
+48	NegativeTail 21a	-12.0	-86.0	26.0	-1.9847676	
